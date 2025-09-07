@@ -13,8 +13,8 @@ const ELEMENT_SELECTORS = {
 
 // Time Configuration (in milliseconds)
 const TIME_CONFIG = {
-    delete_cycle: 10000,
-    press_button_delay: 2000
+    delete_cycle: 15000,
+    press_button_delay: 3000
 };
 
 const MAX_RETRIES = 1000;
